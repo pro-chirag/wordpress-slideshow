@@ -1,0 +1,11 @@
+/**
+ * Front CSS
+ */
+.wp-slide-slideshow {
+    width: 100%;
+}
+.wp-slide-slideshow-item img {
+    max-width: 450px;
+    margin: 0 auto;
+    width: 100%;
+}
